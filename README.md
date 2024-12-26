@@ -6,7 +6,7 @@
 - En jeu l'utilisation est simple, il vous suffis simplement de faire `/roll` dans le chat.
 # Installation 📥
 - Télécharger la dernière version de `mkroll.dll`.
-- Metter `mkroll.dll` dans le dossier plugins de votre serveur.
+- Mettre `mkroll.dll` dans le dossier plugins de votre serveur.
 - Il suffit simplement de redémarrer.
 # Dépendance 📜
 - Aucune pour l'instant.
