@@ -1,5 +1,5 @@
 # MKRoll 🎲
-⚠ Ce plugin ne peut-être réutiliser à des fins commercials ⚠
+⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkroll.json`.
 - Vous pouvez modifier le roll max dans la config (10 par défaut).
