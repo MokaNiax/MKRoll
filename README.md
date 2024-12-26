@@ -1,4 +1,5 @@
 # MKRoll 🎲
+![MKRoll](https://github.com/user-attachments/assets/ca9e7d7e-cf94-43d5-a7b5-41bbee38764e)
 ### MKRoll est un plugin permettant de générer un numéro aléatoire (entre 1 et 10 par défaut).
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
 # Fonctionnalité 🧰
