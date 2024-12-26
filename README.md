@@ -1,6 +1,6 @@
 # MKRoll 🎲
 ⚠ Ce plugin ne peut-être réutilisé à des fins commercials ⚠
-MKRoll est un plugin permettant de générer un numéro aléatoire (entre 1 et 10 par défaut).
+- MKRoll est un plugin permettant de générer un numéro aléatoire (entre 1 et 10 par défaut).
 # Fonctionnalité 🧰
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkroll.json`.
 - Vous pouvez modifier le roll max dans la config (10 par défaut).
