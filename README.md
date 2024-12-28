@@ -6,6 +6,8 @@
 - Ce plugin contient une config en .json situer dans `/Plugins/MKPlugins/mkroll.json`.
 - Vous pouvez modifier le roll max dans la config (10 par défaut).
 - En jeu l'utilisation est simple, il vous suffis simplement de faire `/roll` dans le chat.
+- Possibilité de choisir la couleur du message (modifiable dans la config par les valeurs : `COLOR_BLUE, COLOR_GREEN, COLOR_ORANGE, COLOR_RED, COLOR_ME`).
+- Possibilité de choisir si le message est envoyé uniquement au joueur ayant exécuté la commande, ou à ce joueur ainsi qu'à ceux se trouvant à proximité (modifiable dans la config, par défaut : `meCommand = true`).
 # Installation 📥
 - Télécharger la dernière version de `mkroll.dll`.
 - Mettre `mkroll.dll` dans le dossier plugins de votre serveur.
